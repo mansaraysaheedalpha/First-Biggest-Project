@@ -87,7 +87,7 @@ header {
 
 /* Hero Section */
 .hero-sec {
-  background: url("../images/heroimg2.webp") no-repeat center center fixed;
+  background: url(heroimg2.webp) no-repeat center center fixed;
   background-size: cover;
   height: 85vh;
   position: relative;
